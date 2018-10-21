@@ -1,5 +1,5 @@
 # HR
-"The attached log file has real data which was collected over 3 months from one of Lightapp’s client. 
+"The attached excel file has real data which was collected over 3 months from one of Lightapp’s client. 
 The raw data is organized in a single table with following fields:
 - meter_id
 - Timestamp
